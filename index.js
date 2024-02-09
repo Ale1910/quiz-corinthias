@@ -6,7 +6,7 @@ const perguntas = [
       "1912",
       "1920",
     ],
-    correta: 1
+    correta: 0
   },
   {
     pergunta: "Qual é o apelido popular do Corinthians?",
