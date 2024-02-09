@@ -1,93 +1,93 @@
 const perguntas = [
   {
-    pergunta: "Em qual ano foi ao ar a novela 'Avenida Brasil'?",
+    pergunta: "Em que ano o Sport Club Corinthians Paulista foi fundado?",
     respostas: [
+      "1910",
+      "1912",
+      "1920",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é o apelido popular do Corinthians?",
+    respostas: [
+      "Galo",
+      "Timão",
+      "Leão",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Quantas vezes o Corinthians venceu a Copa Libertadores da América?",
+    respostas: [
+      "1",
+      "2",
+      "3",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é o estádio que o Corinthians manda a maioria de seus jogos?",
+    respostas: [
+      "Maracanã",
+      "Allianz Parque",
+      "Arena Corinthians",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Quem é o maior artilheiro da história do Corinthians?",
+    respostas: [
+      "Ronaldo Nazário",
+      "Sócrates",
+      "Marcelinho Carioca",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Em qual ano o Corinthians conquistou o Mundial de Clubes da FIFA?",
+    respostas: [
+      "2000",
       "2012",
       "2014",
-      "2016",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual técnico comandou o Corinthians na conquista do Campeonato Brasileiro de 2015?",
+    respostas: [
+      "Tite",
+      "Mano Menezes",
+      "Adenor Leonardo Bacchi",
     ],
     correta: 0
   },
   {
-    pergunta: "Quem foi o autor da novela 'Senhora do Destino'?",
+    pergunta: "Qual jogador ficou conhecido como 'Pé de Anjo' no Corinthians?",
     respostas: [
-      "Aguinaldo Silva",
-      "Gilberto Braga",
-      "Manoel Carlos",
+      "Neto",
+      "Marcelinho Carioca",
+      "Rivelino",
     ],
-    correta: 0
+    correta: 1
   },
   {
-    pergunta: "Qual atriz interpretou a personagem 'Helena' na novela 'Laços de Família'?",
+    pergunta: "Qual foi a primeira competição internacional conquistada pelo Corinthians?",
     respostas: [
-      "Regina Duarte",
-      "Giovanna Antonelli",
-      "Vera Fischer",
+      "Recopa Sul-Americana",
+      "Copa Sul-Americana",
+      "Copa Rio Internacional",
     ],
     correta: 2
   },
   {
-    pergunta: "Qual novela abordou a temática do cangaço, contando a história de Maria Bonita e Lampião?",
+    pergunta: "Quem é considerado o maior ídolo da Fiel Torcida Corinthians?",
     respostas: [
-      "Cordel Encantado",
-      "O Bem-Amado",
-      "Meu Pedacinho de Chão",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Em 'Por Amor', qual era o nome da personagem interpretada por Regina Duarte?",
-    respostas: [
-      "Helena",
-      "Clara",
-      "Maria Eduarda",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Quem foi o autor da novela 'Roque Santeiro'?",
-    respostas: [
-      "Aguinaldo Silva",
-      "Gilberto Braga",
-      "Dias Gomes",
+      "Ronaldo Nazário",
+      "Sócrates",
+      "Rivellino",
     ],
     correta: 2
-  },
-  {
-    pergunta: "Qual novela foi inspirada na obra 'Dona Beija - A Feiticeira do Araguaia'?",
-    respostas: [
-      "Pantanal",
-      "O Rei do Gado",
-      "Mulheres de Areia",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Em 'Cheias de Charme', qual era a profissão das protagonistas Cida, Rosário e Penha?",
-    respostas: [
-      "Advogadas",
-      "Empresárias",
-      "Empregadas domésticas",
-    ],
-    correta: 2
-  },
-  {
-    pergunta: "Qual novela abordou o tema da clonagem humana?",
-    respostas: [
-      "O Clone",
-      "Amor à Vida",
-      "A Viagem",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Em 'Tieta', qual era o nome da cidade onde se passava a trama?",
-    respostas: [
-      "Santana do Agreste",
-      "São Paulo",
-      "Salvador",
-    ],
-    correta: 0
   },
 ];
   
